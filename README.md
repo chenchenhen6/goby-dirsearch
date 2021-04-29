@@ -5,7 +5,7 @@ git clone https://github.com/maurosoria/dirsearch.git
 
 安装依赖
 pip3 install -r requirements.txt
-# 2、下载插件并设置插件
+# 2、设置并使用插件
 设置dirsearch.py路径，即可在ip详情页与webfinder使用dirsearch
 
 ![dir1](https://user-images.githubusercontent.com/35289748/116570891-2f80c700-a93d-11eb-8d0e-c7169a983a4a.gif)
