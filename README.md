@@ -1,4 +1,4 @@
-#由于github项目作者更新导致参数有变化，插件更新将直接支持新参数，遇到dirsearch.py: error: no such option: --format 报错，请重新通过git下载最新版本
+# 由于github项目作者更新导致参数有变化，插件更新将直接支持新参数，遇到dirsearch.py: error: no such option: --format 报错，请重新通过git下载最新版本
 
 # 1、快速开始
 
