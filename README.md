@@ -1,6 +1,6 @@
 # 2021.05.17更新：新增dirsearch自定义参数用法
 
-例如：过滤目录扫描404,301状态码，调节线程为10，可将dirsearch自定义参数设置为 -x 404,301 -t 10,更多用法请通过github项目地址查看使用文档
+例如：过滤目录扫描404,301状态码，调节线程为10，可将dirsearch自定义参数设置为 -x 404,301 -t 10,更多用法请查看dirsearch项目使用文档
 
 <img width="817" alt="图片" src="https://user-images.githubusercontent.com/35289748/118425882-b33c0100-b6fc-11eb-9943-a8fc64df656a.png">
 
